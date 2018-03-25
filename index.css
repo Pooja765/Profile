@@ -1,0 +1,35 @@
+.colo
+{
+	color:white;
+	font-size : 3rem;
+	text-decoration: inherit;
+	background-color: #FF007F;
+	height:50;
+	font-style: italic;
+}
+body
+{
+background :#7FFF00;
+
+}
+.column {
+    float: left;
+    width: 50%;
+    font-size: 2rem;
+    font-style: italic;
+
+}
+a
+{
+    color:#FF1493;
+}
+.v1
+{
+    border:1px solid black;
+    width:auto;
+    height:460px;
+    overflow:scroll;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    background:#7FFF00; 
+}
